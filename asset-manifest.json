@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fabicorvelo/teste-application/static/css/main.7890320a.css",
+    "main.js": "/fabicorvelo/teste-application/static/js/main.f7807c3d.js",
+    "static/js/787.9ae1166c.chunk.js": "/fabicorvelo/teste-application/static/js/787.9ae1166c.chunk.js",
+    "index.html": "/fabicorvelo/teste-application/index.html",
+    "main.7890320a.css.map": "/fabicorvelo/teste-application/static/css/main.7890320a.css.map",
+    "main.f7807c3d.js.map": "/fabicorvelo/teste-application/static/js/main.f7807c3d.js.map",
+    "787.9ae1166c.chunk.js.map": "/fabicorvelo/teste-application/static/js/787.9ae1166c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7890320a.css",
+    "static/js/main.f7807c3d.js"
+  ]
+}
